@@ -172,3 +172,35 @@ body{
     text-align: center;
     gap: 24px;
 }
+
+.subscribe{
+    background-image: url('../images/Rectangle\ 9.png');
+    background-size: 100%;
+    text-align: center;
+    margin: 120px 240px;
+    background-repeat: no-repeat;
+}
+
+.sub-title{
+    padding: 122px 534px 0 533px;
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.sub-description{
+    color: rgba(39, 39, 39, 0.60);
+    padding: 0 605px 2px 605px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn-field{
+    padding: 22px 300px 22px 20px;
+    border: none;
+    font-weight: 800;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.subscribe-form{
+    padding-bottom: 121px;
+}
+
