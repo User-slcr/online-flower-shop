@@ -57,3 +57,74 @@ body{
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+/* main section design */
+
+.feature{
+    padding: 200px 665px 3px;
+    text-align: center;
+}
+
+.feature-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.feature-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.flower-item{
+    padding: 70px;
+    margin: 0 240px;
+}
+.item-content{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    gap: 25px;
+}
+.flower-1{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.item-1{
+    padding: 108px 76px 0px 76px;
+    margin: 0;
+}
+.flower-2{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.item-2{
+    padding: 117px 47px 51px 47px;
+    margin: 0;
+}
+.flower-3{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.item-3{
+    padding: 67px 75px 0px 75px;
+    margin: 0;
+}
+.item-content h4{
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
+
+/* hot deal section design */
+
+.hot-deal{
+    margin-top: 10px;
+    padding: 150px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+
+}
